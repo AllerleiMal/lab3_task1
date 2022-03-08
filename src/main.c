@@ -1,10 +1,12 @@
-/* hello.c */
+//
+// Created by Pavel Emelyanenko 08.03.2022
+//
+
+// Client file
+
 #include <stdio.h>
 
 int main (void)
 {
-	printf ("Hello World\n");
-	printf ("Goodbye World\n");
-
   return 0;
 }
