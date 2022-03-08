@@ -1,0 +1,42 @@
+{
+  "files": {
+    "src/m_server.c": [
+      {
+        "id": "739754e6-4eec-4e11-a29f-b14fec67ddda",
+        "line": 25,
+        "version": 1043,
+        "index": 604
+      },
+      {
+        "id": "bc5fced6-5826-49c5-9f54-de5fea7f0095",
+        "line": 26,
+        "version": 1043,
+        "index": 643
+      },
+      {
+        "id": "b8d1352c-01e7-46ba-a10a-370334e1b659",
+        "line": 27,
+        "version": 1043,
+        "index": 685
+      },
+      {
+        "id": "bd34d0e9-bde2-4fff-9690-52091e80750a",
+        "line": 30,
+        "version": 1043,
+        "index": 703
+      },
+      {
+        "id": "2a2800c8-f989-43d9-83a7-6cacb4395da6",
+        "line": 30,
+        "version": 1043,
+        "index": 714
+      },
+      {
+        "id": "199c28b8-4633-44b1-8682-f2113346b750",
+        "line": 34,
+        "version": 1043,
+        "index": 804
+      }
+    ]
+  }
+}

@@ -1,2 +1,2 @@
 language = "c"
-run = "gcc -o main /home/runner/lab3_task1/src/main.c"
+run = "gcc -o main ./src/main.c ./src/m_server.c"
